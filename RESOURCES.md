@@ -1,5 +1,8 @@
 # RESOURCES
 
+## Heroku Documentation
+https://devcenter.heroku.com/articles/getting-started-with-rails5
+
 ## rspec Documentation
 https://github.com/rspec/rspec-rails
 
